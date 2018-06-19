@@ -3,26 +3,10 @@ body{
 	background-color:#d2b48c;
 	width:auto;
 	height:auto;
+	border:10px solid black;
 	
 }
-#top, #bottom, #left, #right {
-	background:black;
-	position: fixed;
-	
-	}
-	#left, #right {
-		top: 0; bottom: 0;
-		width: 10px;
-		}
-		#left { left: 0; }
-		#right { right: 0; }
-		
-	#top, #bottom {
-		left: 0; right: 0;
-		height: 10px;
-		}
-		#top { top: 0; }
-		#bottom { bottom: 0; }
+
 		
 		#header
 		{
