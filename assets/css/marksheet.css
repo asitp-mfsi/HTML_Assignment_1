@@ -1,10 +1,19 @@
-body{
+.outdoor{
 	
 	background-color:#d2b48c;
 	width:auto;
 	height:auto;
 	border:10px solid black;
 	
+}
+
+.requirement
+{
+	font-family:Georgia;
+}
+.info
+{
+	font-family:courier;
 }
 
 		
@@ -42,6 +51,9 @@ body{
 		
 		margin-right:500px;
 		font-family:courier;
+		width:100%;
+		text-align:left;
+		font-size:25px;
 		
 	}
 	table#t01 tr:nth-child(even) {
